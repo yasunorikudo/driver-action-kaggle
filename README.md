@@ -3,6 +3,7 @@
 
 Driver action recognition challenge in [Kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection).
 Implemented by Chainer.
+This repository is work in progress.
 
 # Requirements
 
